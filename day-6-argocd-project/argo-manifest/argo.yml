@@ -7,9 +7,9 @@ spec:
   project: default
 
   source:
-    repoURL:  https://github.com/CloudTechDevOps/Kubernetes-0730.git
+    repoURL:  https://github.com/ramakrishna3114/swiggy-sample-application.git
     targetRevision: HEAD
-    path: Day-5-Argocd
+    path: argo-cd
   destination: 
     server: https://kubernetes.default.svc
     namespace: myapp
