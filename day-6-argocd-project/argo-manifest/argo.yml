@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL:  https://github.com/ramakrishna3114/swiggy-sample-application.git
+    repoURL:  542622959484.dkr.ecr.us-east-1.amazonaws.com/zomato:latest
     targetRevision: HEAD
     path: argo-cd
   destination: 
